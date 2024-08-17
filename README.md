@@ -63,36 +63,37 @@ cloud variables for the lamp.
 **Links**
 
 ESP32 Smart Home YT Tutorial
-
 [https://www.youtube.com/watch?v=ZjVWXPnAgoE](https://www.youtube.com/watch?v=ZjVWXPnAgoE)
 
 Arduino Relay Shield Basics
-
 [https://docs.arduino.cc/tutorials/4-relays-shield/4-relay-shield-basics/](https://docs.arduino.cc/tutorials/4-relays-shield/4-relay-shield-basics/) 
 
 Connecting a relay module to a microcontroller
-
  **[https://www.youtube.com/watch?v=FWvEEtrTGRQ](https://www.youtube.com/watch?v=FWvEEtrTGRQ)** 
 
 How to use a relay module with ESP32
-
 [**https://www.youtube.com/watch?v=5v3hguC41Kk**](https://www.youtube.com/watch?v=5v3hguC41Kk)
 
 How to use a relay with Arduino
-
 [https://www.youtube.com/watch?v=BSGwvAHy4As](https://www.youtube.com/watch?v=BSGwvAHy4As)
 
 Software for making our own diagrams (Draw.io)
-
 [https://draw.io](https://draw.io)
 
 Arduino Cloud Home
-
 [https://app.arduino.cc](https://app.arduino.cc) 
 
-How to create a thread in On Shape
+Learn threads on Onshape  
+https://www.youtube.com/watch?v=WkhUtFPze_s&list=PLqjVcpnStfyWjIwiTmfNRiGo5IbMqv_da&index=3&pp=gAQBiAQB
 
-[https://www.youtube.com/watch?v=Y_KmMHZxtpU&pp=ygUgaG93IHRvIGNyZWF0ZSB0aHJlYWRzIGluIG9uc2hhcGU%3D](https://www.youtube.com/watch?v=Y_KmMHZxtpU&pp=ygUgaG93IHRvIGNyZWF0ZSB0aHJlYWRzIGluIG9uc2hhcGU%3D)
+Design working parts in Onshape  
+https://www.youtube.com/watch?v=2UIJc4k1EjI&list=PLqjVcpnStfyWjIwiTmfNRiGo5IbMqv_da&index=2&pp=gAQBiAQB
+
+Design joining features Onshape  
+https://www.youtube.com/watch?v=RTQjvYENR7w&list=PLqjVcpnStfyWjIwiTmfNRiGo5IbMqv_da&index=1&pp=gAQBiAQB 
+
+Make 3d parts fit  
+https://www.youtube.com/watch?v=yzPqBt2SrcE&list=PLqjVcpnStfyWjIwiTmfNRiGo5IbMqv_da&index=4&pp=gAQBiAQB 
 
 ## Credits (In order of appearance)
 
